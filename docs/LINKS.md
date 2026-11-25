@@ -15,3 +15,4 @@
 ## Tutorials and videos
 - [Earth Engine tutorial series](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-01-introduction?hl=en)
 - [MapLibre Tutorial 21: Visualizing Google's AlphaEarth Satellite Embeddings in 3D](https://www.youtube.com/watch?v=EGL7fXyA7-U)
+- [Leafmap - AlphaEarth tutorial](https://leafmap.org/maplibre/AlphaEarth/)
